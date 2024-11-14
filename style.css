@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: white;
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: white;
+}
+
+.alert-info {
+    background-color: #d1ecf1;
+    color: #0c5460;
+}
+
+.alert-warning {
+    background-color: #ffc107;
+    color: white;
+}
+
+.summary {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 20px;
+}
+
+.summary h3 {
+    margin-bottom: 15px;
+}
+
+.summary p {
+    margin-bottom: 5px;
+}
