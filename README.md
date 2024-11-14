@@ -1,0 +1,1 @@
+Proyek ini dapat membantu pengguna memahami sentimen umum tentang suatu film berdasarkan ulasan publik. Contohnya, jika seseorang ingin mengetahui apakah film baru mendapat ulasan positif, mereka bisa memasukkan nama film tersebut dan mendapatkan gambaran tentang respons audiens secara keseluruhan.
